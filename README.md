@@ -40,4 +40,4 @@
 <code><img height="20" src="https://github.com/ronnitpeter/stack-icons/blob/master/logos/elasticsearch.svg"></code>
 <code><img height="20" src="https://github.com/ronnitpeter/stack-icons/blob/master/logos/kibana.svg"></code>
 
-![Ronnit's github stats](https://github-readme-stats.vercel.app/api?username=ronnitpeter&show_icons=true&count_private=true)
+[![Ronnit's github stats](https://github-readme-stats.vercel.app/api?username=rcpeter&show_icons=true&count_private=true)](https://github.com/rcpeter)
