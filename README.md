@@ -20,10 +20,10 @@
 ```bash
 > Ronnit Peter (he/him) --info 👨
 > 😪 Deleted my previous repository and wanted to start afresh
-> 🔭 I am a Data Engineer and currently work for Kmart Australia
+> 🔭 Experienced developer in Data Engineering, Cloud Engineering and MLOps
 > 🌱 I build data platforms and pipelines
-> 🌱 I like Data Engineering, Analytics, IoT and Clean Code!
-> 💬 Talk to me about Data Engineering, Tech, EVs, Productivity
+> 🌱 I like Data Engineering and writing Clean Code which can be pushed to production without thinking twice!
+> 💬 Talk to me about Data Engineering, Tech, Finance, Productivity and Psychology.
 ```
 
 
